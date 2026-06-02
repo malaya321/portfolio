@@ -28,14 +28,15 @@ data/portfolio.ts
 
 It controls your name, role, about text, skills, projects, and contact links.
 
-### 1. Contact links (important)
+### 1. Contact links
 
-In `data/portfolio.ts`, find the `profile` object and replace the placeholders marked `TODO`:
+These are already filled in inside the `profile` object in `data/portfolio.ts`. Edit them here if they ever change:
 
 ```ts
-email: "maharana@suyogindia.com",          // your email
-linkedin: "https://www.linkedin.com/in/your-handle", // your LinkedIn
-github: "https://github.com/your-handle",  // optional — or delete the line
+email: "ranjanmalayatwo000@gmail.com",
+phone: "+91 83277 01503",
+linkedin: "https://www.linkedin.com/in/malaya-ranjan-dalabehera-b18b9b1b0/",
+github: "https://github.com/malaya321",
 ```
 
 ### 2. Project store links
