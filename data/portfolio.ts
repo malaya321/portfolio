@@ -11,7 +11,7 @@ export const profile = {
   experience: "4+ Years Experience",
   location: "Bhubaneswar, Odisha, India",
   // ---- Contact ----
-  email: "ranjanmalayatwo000@gmail.com",
+  email: "maharana@suyogindia.com",
   phone: "+91 83277 01503",
   linkedin: "https://www.linkedin.com/in/malaya-ranjan-dalabehera-b18b9b1b0/",
   github: "https://github.com/malaya321",
